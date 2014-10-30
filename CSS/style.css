@@ -1,0 +1,133 @@
+
+body {
+      margin: 0px;
+      padding: 0px;
+
+
+
+
+}
+
+
+header {
+        width: 100%;
+        max-width: 100%;
+        background: #12101B;
+        height: 100px;
+        position: relative;
+        margin: 0px;
+        overflow: hidden;
+        display: block;
+        font-family: Verdana;
+        font-size: medium;
+
+}
+#wrapper{
+         display: block;
+         padding-right: 0px;
+         padding-left: 0px;
+         margin: 0 auto;
+         margin-top: 25px;
+}
+
+nav {
+
+     text-align:right;
+     position: relative;
+}
+
+  nav ul {
+          margin: 0px;
+          margin-top: 10px;
+          padding:0px;
+          height: inherit;
+          display:block;
+          list-style:none;
+          text-decoration: none;
+          display: block;
+
+
+
+}
+
+nav ul li{
+          display: inline-block;
+          margin-right: 5px;
+          margin-left: 5px;
+          padding: 0px;
+          background: black;
+          border: 5px pink;
+          color: white;
+          text-decoration: none;
+          position: relative;
+          transition: background-color 0.3s ease;
+
+
+
+}
+nav ul li:hover{
+          background-color:pink;
+}
+ nav ul li a {
+          text-decoration: none;
+          color:#FFF;
+          float: left;
+          text-align: center;
+          display: inline-block;
+          transition: background-color 0.3s ease;/*cambiar fondo de color*/
+          border-radius: 3px;
+          /*text-transform: uppercase;*/
+          padding: 5px;
+          margin: 10px;
+
+}
+
+/*#main-info {
+
+      height: 530px;
+      margin: 0px;
+      position: relative;
+      background: grey;
+      display: block;
+}
+
+.wrapper-info{
+
+       position: absolute;
+       max-width: 560px;
+       display: block;
+}
+#wrapper-content-text {
+
+      display: block;
+      height: 100%;
+      position: relative;
+      max-width: 1220px;
+      padding-left: 20px;
+      padding-right: 100px;
+      margin: 0 auto;
+}
+
+.main-info-title{
+
+      font-family: Alieron-Heavy;
+      background-color:#269DB8;
+      color: white;
+      padding-bottom: 10px;
+      padding-top: 10px;
+      padding-left: 10px;
+      border-radius: 3px;
+}
+
+
+
+.main-info-title{
+      font-family: Alieron-Thin;
+      background: #12101B;
+      color: #fff;
+      border-radius: 3px;
+      padding-bottom: 10px;
+      padding-top: 10px;
+      padding-left: 10px;
+      padding-right: 10px;
+}*/
